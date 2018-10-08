@@ -13,3 +13,4 @@ else
   echo "The sequence is not DNA nor RNA"
 fi
 #esto es para el push
+#cambios a local level
