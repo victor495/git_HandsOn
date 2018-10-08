@@ -12,4 +12,3 @@ if [[ $seq =~ ^[ACGTU]+$ ]]; then
 else
   echo "The sequence is not DNA nor RNA"
 fi
-Hola esto es el revert
